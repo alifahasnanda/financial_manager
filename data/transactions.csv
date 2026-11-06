@@ -1,0 +1,9 @@
+date,description,category,type,amount
+2026-10-01,Salary,Income,income,2500.00
+2026-10-02,Rent,Housing,expense,850.00
+2026-10-04,Groceries,Food,expense,65.40
+2026-10-05,Restaurant,Entertainment,expense,32.50
+2026-10-08,Bank Transfer,Income,income,150.00
+2026-10-10,Electricity,Utilities,expense,78.90
+2026-10-12,Cinema,Entertainment,expense,24.00
+2026-10-15,Groceries,Food,expense,92.30

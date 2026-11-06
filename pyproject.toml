@@ -1,0 +1,7 @@
+[project]
+name = "financial-manager"
+version = "0.1.0"
+description = "Bank transaction manager (CLI)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
