@@ -1,0 +1,9 @@
+FINANCIAL SUMMARY
+Total Income: 2650.00 EUR
+Total Expenses: 1243.10 EUR
+Current Balance: 1406.90 EUR
+Expenses by Category:
+  Housing: 850.00 EUR
+  Food: 157.70 EUR
+  Entertainment: 56.50 EUR
+  Utilities: 178.90 EUR
